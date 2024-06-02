@@ -3,8 +3,8 @@
 @font-face {
 font-family: 'BureauAP';
 src: local('BureauAP'),
-		url('BureauAP.woff2') format('woff2'),
-		url('BureauAP.woff') format('woff');
+		url('../fonts/'BureauAP.woff2') format('woff2'),
+		url('../fonts/'BureauAP.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 font-display: swap;
@@ -13,8 +13,8 @@ font-display: swap;
 @font-face {
 	font-family: 'Second Lesson PERSONAL USE';
 	src: local('Second Lesson PERSONAL USE Regular'), local('SecondLessonPERSONALUSE-Regular'),
-			url('/fonts/SecondLessonPERSONALUSE-Regular.woff2') format('woff2'),
-			url('/fonts/SecondLessonPERSONALUSE-Regular.woff') format('woff');
+			url('../fonts/SecondLessonPERSONALUSE-Regular.woff2') format('woff2'),
+			url('../fonts/SecondLessonPERSONALUSE-Regular.woff') format('woff');
 	font-weight: 900;
 	font-style: italic;
 	font-display: swap;
